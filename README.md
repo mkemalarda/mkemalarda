@@ -1,14 +1,7 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw0i_DVpSSRy68NiRB9dffew&ust=1691790162910000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjSnM-H04ADFQAAAAAdAAAAABAE
 <h1 align="center">Hi 👋, I'm Mustafa Kemal ARDA</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkemalarda&label=Profile%20views&color=0e75b6&style=flat" alt="mkemalarda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkemalarda" alt="mkemalarda" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mkemalarda" target="blank"><img src="https://img.shields.io/twitter/follow/mkemalarda?logo=twitter&style=for-the-badge" alt="mkemalarda" /></a> </p>
-
-- 🔭 I’m currently working on **iOS**
+- 🌱 I’m currently learning **iOS**
 
 - 💬 Ask me about **Swift**
 
