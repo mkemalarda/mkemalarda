@@ -1,4 +1,3 @@
-[![MasterHead]https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
